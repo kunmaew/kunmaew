@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+### Skills
+
+[logo]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://www.mysql.com/) "Logo Title Text 2"
+
+
 <!--
 **kunmaew/kunmaew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
